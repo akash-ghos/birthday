@@ -740,11 +740,74 @@ p {
 
 
 
+@media (max-width:565px) {
+
+    .color-flag {
+
+        width: 280px;
+        height: 170px;
+        /* animation: fade-in 1s ease-out forwards; */
+    }
+
+    .ribbon {
+
+        position: absolute;
+        left: 48%;
+        /* animation: slide-in 0.5s ease-out forwards;
+        transform: translateY(-100%);
+        animation-delay: 1s; */
+    }
+
+    .confetti-btn {
+
+        top: 85%;
+        left: 80%;
+    }
+
+    .img-container {
+
+        left: 37%;
+        top: 30%;
+    }
 
 
+}
 
 
-@media (max-width:415px) {
+@media (max-width:465px) {
+
+    .color-flag {
+
+        width: 250px;
+        height: 150px;
+        /* animation: fade-in 1s ease-out forwards; */
+    }
+
+    .ribbon {
+
+        position: absolute;
+        left: 48%;
+        /* animation: slide-in 0.5s ease-out forwards;
+        transform: translateY(-100%);
+        animation-delay: 1s; */
+    }
+
+    .confetti-btn {
+
+        top: 85%;
+        left: 80%;
+    }
+
+    .img-container {
+
+        left: 37%;
+        top: 30%;
+    }
+
+
+}
+
+@media (max-width:405px) {
 
     .color-flag {
 
